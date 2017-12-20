@@ -13,7 +13,7 @@ namespace HolaMundo
 		{
 			InitializeComponent();
 
-			MainPage = new HolaMundo.MainPage();
+			MainPage = new MainPage();
 		}
 
 		protected override void OnStart ()
