@@ -5,8 +5,10 @@
              x:Class="HolaMundo.MainPage">
 
     <StackLayout>
-        <Entry Placeholder="Nombre"/>
-        <Button Text="Decir hola"/>
+        <Entry x:Name="nombreEntry"
+               Placeholder="Nombre"/>
+        <Button Text="Decir hola"
+                Clicked="Button_Clicked"/>
     </StackLayout>
 
 </ContentPage>
