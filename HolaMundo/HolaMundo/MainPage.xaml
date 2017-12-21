@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:HolaMundo"
              x:Class="HolaMundo.MainPage">
 
-    <StackLayout>
+    <StackLayout Margin="20">
         <Entry x:Name="nombreEntry"
                Placeholder="Nombre"/>
         <Button Text="Decir hola"

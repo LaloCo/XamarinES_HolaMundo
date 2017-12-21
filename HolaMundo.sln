@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaMundo.iOS", "HolaMundo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaMundo.UWP", "HolaMundo\HolaMundo.UWP\HolaMundo.UWP.csproj", "{6EAFF326-3AF5-4E12-86AE-253CDC8D0241}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaMundo", "HolaMundo\HolaMundo\HolaMundo.csproj", "{D9724479-A00F-456E-A507-C7C23CB8BBDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaMundo", "HolaMundo\HolaMundo\HolaMundo.csproj", "{D9724479-A00F-456E-A507-C7C23CB8BBDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -128,6 +128,7 @@ Global
 		{9B699E2A-9A68-4944-B2B4-FA359D4D7368}.AppStore|x64.ActiveCfg = AppStore|iPhone
 		{9B699E2A-9A68-4944-B2B4-FA359D4D7368}.AppStore|x86.ActiveCfg = AppStore|iPhone
 		{9B699E2A-9A68-4944-B2B4-FA359D4D7368}.Debug|Any CPU.ActiveCfg = Debug|iPhone
+		{9B699E2A-9A68-4944-B2B4-FA359D4D7368}.Debug|Any CPU.Build.0 = Debug|iPhone
 		{9B699E2A-9A68-4944-B2B4-FA359D4D7368}.Debug|ARM.ActiveCfg = Debug|iPhone
 		{9B699E2A-9A68-4944-B2B4-FA359D4D7368}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{9B699E2A-9A68-4944-B2B4-FA359D4D7368}.Debug|iPhone.Build.0 = Debug|iPhone
@@ -180,6 +181,8 @@ Global
 		{6EAFF326-3AF5-4E12-86AE-253CDC8D0241}.AppStore|x86.Build.0 = Release|x86
 		{6EAFF326-3AF5-4E12-86AE-253CDC8D0241}.AppStore|x86.Deploy.0 = Release|x86
 		{6EAFF326-3AF5-4E12-86AE-253CDC8D0241}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6EAFF326-3AF5-4E12-86AE-253CDC8D0241}.Debug|Any CPU.Build.0 = Debug|x86
+		{6EAFF326-3AF5-4E12-86AE-253CDC8D0241}.Debug|Any CPU.Deploy.0 = Debug|x86
 		{6EAFF326-3AF5-4E12-86AE-253CDC8D0241}.Debug|ARM.ActiveCfg = Debug|ARM
 		{6EAFF326-3AF5-4E12-86AE-253CDC8D0241}.Debug|ARM.Build.0 = Debug|ARM
 		{6EAFF326-3AF5-4E12-86AE-253CDC8D0241}.Debug|ARM.Deploy.0 = Debug|ARM
