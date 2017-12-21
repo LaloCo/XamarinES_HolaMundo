@@ -4,8 +4,9 @@
              xmlns:local="clr-namespace:HolaMundo"
              x:Class="HolaMundo.MainPage">
 
-	<Label Text="Welcome to Xamarin.Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <StackLayout>
+        <Entry Placeholder="Nombre"/>
+        <Button Text="Decir hola"/>
+    </StackLayout>
 
 </ContentPage>

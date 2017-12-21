@@ -13,5 +13,5 @@ namespace HolaMundo
 		{
 			InitializeComponent();
 		}
-	}
+    }
 }
